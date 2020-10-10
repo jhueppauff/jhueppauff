@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+I am an Azure Architect and Developer from South-West Germany.
+Most of my time I spent in Azure and with Microsoft technology.
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhueppauff&show_icons=true&theme=synthwave)
+
+- 📫 How to reach me: [https://hueppauff.com/#contact](https://hueppauff.com/)
+- 😄 Pronouns: he/him/his
+- 👯 I’m looking to collaborate on Microsoft/.NET Projects
 
 <!--
 **jhueppauff/jhueppauff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
