@@ -6,6 +6,8 @@ Most of my time I spent in Azure and with Microsoft technology.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhueppauff&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhueppauff&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 - 💬 My website: [https://hueppauff.com/](https://hueppauff.com/)
 - 📫 How to reach me: [https://hueppauff.com/#contact](https://hueppauff.com/)
 - 😄 Pronouns: he/him/his
