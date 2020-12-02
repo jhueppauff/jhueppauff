@@ -9,10 +9,11 @@ Most of my time I spent in Azure and with Microsoft technology.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhueppauff&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💬 My website: [https://hueppauff.com/](https://hueppauff.com/)
+- 💬 My blog [https://blog.hueppauff.com/](https://blog.hueppauff.com/)
 - 📫 How to reach me: [https://hueppauff.com/#contact](https://hueppauff.com/)
 - 😄 Pronouns: he/him/his
 - 👯 I’m looking to collaborate on Microsoft/.NET Projects
-- 💻 mostly Surface Book
+- 💻 mostly Surface Book 😍
 
 <!--
 **jhueppauff/jhueppauff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
