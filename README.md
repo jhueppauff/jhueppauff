@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I am an Azure Architect and Developer from South-West Germany.
-Most of my time I spent in Azure and with Microsoft technology.
+Most of my time I spent working with Azure and especially with Microsoft technology.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhueppauff&show_icons=true&theme=synthwave)
