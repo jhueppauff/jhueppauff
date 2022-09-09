@@ -10,6 +10,7 @@ Most of my time I spent working with Azure and especially with Microsoft technol
 
 - 💬 My website: [https://hueppauff.com/](https://hueppauff.com/)
 - 💬 My blog [https://blog.hueppauff.com/](https://blog.hueppauff.com/)
+- 🧑‍💻 StackOverflow [https://stackoverflow.com/users/18632018/julian-h%c3%bcppauff](https://stackoverflow.com/users/18632018/julian-h%c3%bcppauff)
 - 📫 How to reach me: [https://hueppauff.com/#contact](https://hueppauff.com/)
 - 😄 Pronouns: he/him/his
 
